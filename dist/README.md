@@ -29,7 +29,6 @@ One of the biggest challenges I faced was formatting the HTML. I eventually deci
     Myself, and Ryan Skog my class TA. Ryan provided guidance during dynamic generation of HTML.
 ## Testing Information
     Test driven development was used through the entire project. Tests were written and tested using JEST.
-## Questions
-  github.com/mrogers23458/  
-  mrogers23458@gmail.com
 
+## Questions
+    Javierldelcid@gmail.com
