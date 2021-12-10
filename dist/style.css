@@ -1,0 +1,22 @@
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+header{
+    text-align: center;
+    padding: 50px;
+    height: 150px;
+    background: #0054a5;
+    color: white;
+}
+.card {
+    margin: 10px;
+    box-shadow: 5px 5px 20px;
+}
+
+.card-title{
+    text-align: center;
+    padding: 5px;
+    background: #9c95c9;
+}
